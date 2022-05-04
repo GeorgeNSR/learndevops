@@ -43,6 +43,7 @@ The keys that we gathered before are known as our consumer keys and we will also
 ![](Images/Day13_Go6.png)
 
 Ok, we are done in the Twitter developer portal for now. Make sure you keep your keys safe because we will need them later. 
+
 **NO WE ARE NOT! You have to change your app permissions to READ&WRITE! **
 ## Go Twitter Bot 
 
@@ -53,6 +54,7 @@ We now need to think about the code to get our output or message to Twitter in t
 To test this before putting this into our main application, I created a new directory in our `src` folder called go-twitter-bot, issued the `go mod init github.com/michaelcade/go-twitter-bot on the folder which then created a `go.mod` file and then we can start writing our new main.go and test this out. 
 
 We now need those keys, tokens and secrets we gathered from the Twitter developer portal. We are going to set these in our environment variables. This will depend on the OS you are running: 
+
 ****** These should be set in the command line in VisualStudio code before adding the code. ******
 
 Windows
