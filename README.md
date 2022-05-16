@@ -50,9 +50,9 @@ This will not cover all things DevOps but it will cover the areas that I feel wi
 - [✔️] 🌐 22 > [The OSI Model - The 7 Layers](Days/day22.md)
 - [✔️] 🌐 23 > [Network Protocols](Days/day23.md)
 - [✔️] 🌐 24 > [Network Automation](Days/day24.md)
-- [] 🌐 25 > [Python for Network Automation](Days/day25.md)
-- [] 🌐 26 > [Building our Lab](Days/day26.md)
-- [] 🌐 27 > [Getting Hands-On with Python & Network](Days/day27.md)
+- [✔️] 🌐 25 > [Python for Network Automation](Days/day25.md)
+- [???] 🌐 26 > [Building our Lab](Days/day26.md)
+- [???] 🌐 27 > [Getting Hands-On with Python & Network](Days/day27.md)
 
 ### Stick to one Cloud Provider
 
